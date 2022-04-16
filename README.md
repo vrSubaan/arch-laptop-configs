@@ -2,4 +2,4 @@
 
 ### To do
 - [x] Install GNU Stow
-- [] Configure Git
+- [  ] Configure Git
