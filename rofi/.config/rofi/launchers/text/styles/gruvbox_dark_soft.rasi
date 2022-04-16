@@ -1,0 +1,16 @@
+/* custom color based from Kitty terminal */
+/* theme: Gruvbox Dark Soft */
+
+* {
+    al:         #32302F;
+    bg:         #32302F;
+    se:         #FFFFFF;
+    fg:         #EBDBB2;
+    ac:         #FFFFFF;
+    red:        #CC241D;
+    green:      #98971A;
+    yellow:     #D79921;
+    blue:       #458588;
+    purple:     #B16286;
+    cyan:       #458588;
+}
