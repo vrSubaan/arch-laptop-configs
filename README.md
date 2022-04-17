@@ -12,6 +12,8 @@ A gruvbox-themed Arch Linux *rice*.
 ![screenshot](/screenshots/screenshot3.png)
 ![screenshot](/screenshots/screenshot4.png)
 
+---
+
 ### Packages used
 - Application launcher: `rofi`
 - Shell: `bash`
