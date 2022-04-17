@@ -16,6 +16,7 @@ set splitbelow
 set splitright
 set relativenumber
 set number
+set autoindent
 set smartindent
 set nowrap
 set laststatus=2
