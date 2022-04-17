@@ -13,7 +13,7 @@ A gruvbox-themed Arch Linux *rice*.
 ![screenshot](/screenshots/screenshot3.png)
 ![screenshot](/screenshots/screenshot4.png)
 
-### Packages used
+## Packages used
 - Application launcher: `rofi`
 - Shell: `bash`
 - Terminal emulator: `kitty`
@@ -27,24 +27,23 @@ A gruvbox-themed Arch Linux *rice*.
 - For dotfiles management: `GNU Stow`
 - text editor: `neovim`
 
-### Fonts installed
+## Fonts installed
 Most fonts are from [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts).
 - Source Code Pro
 - Iosevka
 - Hack
 - JetBrains Mono
 
-### Wallpaper
+## Wallpaper
 - [Link to original artist](https://www.artstation.com/gharly)
 - [Wallpaper link](https://imgur.com/a/pua0dYx)
 
-### Miscellaneous
-#### Other packages and dependencies used
+# Miscellaneous
+## Other packages and dependencies used
 - [`polybar-themes`](https://github.com/adi1090x/polybar-themes) for polybar
 - [`powerline-shell`](https://github.com/b-ryan/powerline-shell) for prompt style for shell
 
-#### To do
-
+## To do
 - [x] Install GNU Stow
 - [x] Configure Git
 - [x] Configure i3
