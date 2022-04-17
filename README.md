@@ -7,12 +7,11 @@ A gruvbox-themed Arch Linux *rice*.
 - Window Manager: `i3-gaps`
 
 ### Screenshots
+
 ![screenshot](/screenshots/screenshot1.png)
 ![screenshot](/screenshots/screenshot2.png)
 ![screenshot](/screenshots/screenshot3.png)
 ![screenshot](/screenshots/screenshot4.png)
-
----
 
 ### Packages used
 - Application launcher: `rofi`
@@ -26,6 +25,7 @@ A gruvbox-themed Arch Linux *rice*.
 - Display Manager: `lightdm`
 - Compositor: `picom`
 - For dotfiles management: `GNU Stow`
+- text editor: `neovim`
 
 ### Fonts installed
 Most fonts are from [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts).
@@ -44,6 +44,7 @@ Most fonts are from [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts).
 - [`powerline-shell`](https://github.com/b-ryan/powerline-shell) for prompt style for shell
 
 #### To do
+
 - [x] Install GNU Stow
 - [x] Configure Git
 - [x] Configure i3
