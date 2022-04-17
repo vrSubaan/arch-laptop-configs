@@ -55,6 +55,6 @@ Most fonts are from [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts).
 - [x] Configure ranger
 - [x] Configure kitty terminal
     - [ ] Fix fonts in terminal
-- [ ] Edit this `README.md` file
+- [x] Edit this `README.md` file
     - [x] Add details
-- [ ] Add screenshots to this readme file
+- [x] Add screenshots to this readme file
