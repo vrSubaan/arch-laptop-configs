@@ -1,13 +1,13 @@
 # Dotfiles for my Arch Linux system
----
+
 ## Details
 ---
+
 ### System Information
 - Distro: Arch Linux
 - Window Manager: `i3-gaps`
 
 ### Packages used
----
 - Application launcher: `rofi`
 - Shell: `bash`
 - Terminal emulator: `kitty`
@@ -20,7 +20,6 @@
 - Compositor: `picom`
 
 ### Fonts installed
----
 Most fonts are from [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts).
 - Source Code Pro
 - Iosevka
