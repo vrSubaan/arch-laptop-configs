@@ -6,6 +6,12 @@ A gruvbox-themed Arch Linux *rice*.
 - Distro: Arch Linux
 - Window Manager: `i3-gaps`
 
+### Screenshots
+![screenshot](/screenshots/screenshot1.png)
+![screenshot](/screenshots/screenshot2.png)
+![screenshot](/screenshots/screenshot3.png)
+![screenshot](/screenshots/screenshot4.png)
+
 ### Packages used
 - Application launcher: `rofi`
 - Shell: `bash`
