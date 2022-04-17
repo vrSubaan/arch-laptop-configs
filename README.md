@@ -39,7 +39,7 @@ Most fonts are from [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts).
 - [Wallpaper link](https://imgur.com/a/pua0dYx)
 
 # Miscellaneous
-## Other packages and dependencies used
+### Other packages and dependencies used
 - [`polybar-themes`](https://github.com/adi1090x/polybar-themes) for polybar
 - [`powerline-shell`](https://github.com/b-ryan/powerline-shell) for prompt style for shell
 
