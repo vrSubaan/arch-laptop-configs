@@ -25,7 +25,8 @@ A gruvbox-themed Arch Linux *rice*.
 - Display Manager: `lightdm`
 - Compositor: `picom`
 - For dotfiles management: `GNU Stow`
-- text editor: `neovim`
+- Text editor: `neovim`
+- Lockscreen: `betterlockscreen`
 
 ## Fonts installed
 Most fonts are from [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts).
