@@ -4,9 +4,9 @@
 * {
     al:         #32302F;
     bg:         #32302F;
-    se:         #FFFFFF;
+    se:         #CC241D;
     fg:         #EBDBB2;
-    ac:         #FFFFFF;
+    ac:         #CC241D;
     red:        #CC241D;
     green:      #98971A;
     yellow:     #D79921;
