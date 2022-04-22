@@ -60,3 +60,6 @@ Most fonts are from [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts).
 - [x] Edit this `README.md` file
     - [x] Add details
 - [x] Add screenshots to this readme file
+
+## Issues
+- Battery module in polybar not working unless I reload i3 and polybar configuration.
