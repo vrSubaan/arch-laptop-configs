@@ -11,13 +11,13 @@ alias ls='ls --color=auto'
 # Start fet.sh
 fet.sh
 
+# Default Editor
+export EDITOR='/usr/bin/nvim'
+
 # Powerline-shell
 function _update_ps1() {
     PS1=$(powerline-shell $?)
 }
-
-# Default Editor
-export EDITOR='/usr/bin/nvim'
 
 if [[ $TERM != linux && ! $PROMPT_COMMAND =~ _update_ps1 ]]; then
     PROMPT_COMMAND="_update_ps1; $PROMPT_COMMAND"
@@ -27,3 +27,6 @@ fi
 alias vi='nvim'
 alias please='sudo'
 alias lwc='ls -a | wc -l' # count all files in current directory
+alias ll='ls -l'
+alias la='ls -a'
+alias lla='ls -al'
