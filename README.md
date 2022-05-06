@@ -53,6 +53,10 @@ Most fonts are from [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts).
 - [x] Configure rofi
 - [x] Configure nvim
     - [ ] Add needed plugins
+    	- [ ] LSPConfig
+	- [ ] Treesitter
+	- [ ] Telescope
+    - [ ] Port nvim config to lua
 - [x] Configure bash
 - [x] Configure ranger
 - [x] Configure kitty terminal
