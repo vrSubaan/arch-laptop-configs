@@ -32,6 +32,6 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     " Ranger File Manager
     " Plug 'kevinhwang91/rnvimr', {'do':'make sync'}
     " Treesitter
-    Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
+    " Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
 
 call plug#end()
