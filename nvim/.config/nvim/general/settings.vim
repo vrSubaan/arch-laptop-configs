@@ -33,9 +33,6 @@ set updatetime=100
 let g:netrw_browse_split=2
 let g:netrw_banner=0
 
-" For CoC I guess?
-" let g:coc_node_path = '/usr/bin/node'
-
 " Set mapleader
 let g:mapleader = "\<Space>"
 
