@@ -4,3 +4,5 @@ require('mappings')
 require('color-schemes')
 
 require('plugin-configs.nvim-tree')
+require('plugin-configs.lualine-config')
+require('plugin-configs.barbar')
