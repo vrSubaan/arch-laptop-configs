@@ -53,17 +53,17 @@ Most fonts are from [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts).
 - [x] Configure rofi
 - [x] Configure nvim
     - [ ] Add needed plugins
-    	- [ ] LSPConfig
+    - [ ] LSPConfig
 	- [ ] Treesitter
 	- [ ] Telescope
-    - [ ] Port nvim config to lua
+    - [x] Port nvim config to lua
 - [x] Configure bash
 - [x] Configure ranger
 - [x] Configure kitty terminal
     - [ ] Fix fonts in terminal
 - [x] Edit this `README.md` file
     - [x] Add details
-- [x] Add screenshots to this readme file
+- [x] Add screenshots to readme file
 
 ## Issues
 - Battery module in polybar not working unless I reload i3 and polybar configuration.
