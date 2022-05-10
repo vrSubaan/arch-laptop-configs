@@ -6,4 +6,9 @@ return require'packer'.startup(function()
     use 'nvim-lualine/lualine.nvim' -- statusline
     use 'jiangmiao/auto-pairs' -- auto pairs for brackets and such
     use 'romgrk/barbar.nvim' -- tablike feature
+
+    -- to do:
+    -- treesitter
+    -- lsp
+    -- telescope
 end)
