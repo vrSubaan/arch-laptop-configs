@@ -20,8 +20,9 @@ set.splitbelow = true
 set.splitright = true
 set.wrap = false
 set.fileencoding = 'utf-8'
-set.guifont = 'Hack'
 set.termguicolors = true
 
 set.smartindent = true
 set.autoindent = true
+
+set.showmode = false
