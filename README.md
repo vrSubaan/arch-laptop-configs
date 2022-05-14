@@ -48,7 +48,7 @@ Most fonts are from [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts).
 - [x] Install GNU Stow
 - [x] Configure Git
 - [x] Configure i3
-- [x] Configure polybar
+- [x] Configure polybar (waiting for update)
     - [ ] Edit Battery Module (add charging and discharging animation)
 - [x] Configure rofi
 - [x] Configure nvim
