@@ -30,3 +30,5 @@ alias lwc='ls -a | wc -l' # count all files in current directory
 alias ll='ls -l'
 alias la='ls -a'
 alias lla='ls -al'
+alias r='ranger'
+alias rsd='ranger --show-only-dirs'
