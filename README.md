@@ -52,18 +52,14 @@ Most fonts are from [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts).
     - [ ] Edit Battery Module (add charging and discharging animation)
 - [x] Configure rofi
 - [x] Configure nvim
-    - [ ] Add needed plugins
-    - [ ] LSPConfig
-	- [ ] Treesitter
+    - [x] LSPConfig
+	- [x] Treesitter
 	- [ ] Telescope
     - [x] Port nvim config to lua
 - [x] Configure bash
 - [x] Configure ranger
 - [x] Configure kitty terminal
-    - [ ] Fix fonts in terminal
-- [x] Edit this `README.md` file
-    - [x] Add details
-- [x] Add screenshots to readme file
+    - [x] Fix fonts in terminal
 
 ## Issues
 - Battery module in polybar not working unless I reload i3 and polybar configuration.
