@@ -58,7 +58,7 @@ Most fonts are from [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts).
     - [x] Port nvim config to lua
 - [x] Configure bash
 - [x] Configure ranger
-- [x] Configure kitty terminal
+- [ ] Configure kitty terminal
     - [x] Fix fonts in terminal
 
 ## Issues

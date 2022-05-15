@@ -166,6 +166,7 @@ bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcu
 
 # for Workspace
 assign [class="Brave"] $ws2
+assign [class="discord"] $ws4
 
 # resize window (you can also use the mouse for that)
 mode "resize" {
