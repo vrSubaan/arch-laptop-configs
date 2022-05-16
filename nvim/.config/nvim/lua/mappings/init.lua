@@ -11,6 +11,33 @@ map('n', '<C-l>', '<C-w>l', opts)
 map('n', '<C-j>', '<C-w>j', opts)
 map('n', '<C-k>', '<C-w>k', opts)
 
+-- resizing
+map('n', '<C-Up>', ':resize -2<CR>', opts)
+map('n', '<C-Down>', ':resize +2<CR>', opts)
+map('n', '<C-Left>', ':vertical resize -2<CR>', opts)
+map('n', '<C-Right>', ':vertical resize +2<CR>', opts)
+
+-- move text up and down
+-- In visual mode
+map('v', '<A-j>', ':m .+1<CR>==', opts)
+map('v', '<A-k>', ':m .-2<CR>==', opts)
+--map("x", "J", ":move '>+1<CR>gv-gv", opts)
+--map("x", "K", ":move '<-2<CR>gv-gv", opts)
+--map("x", "<A-j>", ":move '>+1<CR>gv-gv", opts)
+--map("x", "<A-k>", ":move '<-2<CR>gv-gv", opts)
+-- In normal mode
+map('n', '<A-j>', ':m .+1<CR>==', opts)
+map('n', '<A-k>', ':m .-2<CR>==', opts)
+
+-- Exit insert mode
+map('i', 'jk', '<ESC>', opts)
+
+-- nerdcommenter mapping
+vim.cmd([[
+    nnoremap <leader><leader>c :call nerdcommenter#Comment(0,"toggle")<CR>
+    vnoremap <leader><leader>c :call nerdcommenter#Comment(0,"toggle")<CR>
+]])
+
 -- nvim-tree mappings
 map('n', '<leader>t', ':NvimTreeToggle<CR>', opts)
 
