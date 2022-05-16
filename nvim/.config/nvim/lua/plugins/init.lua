@@ -7,6 +7,7 @@ return require'packer'.startup(function()
     use 'jiangmiao/auto-pairs' -- auto pairs for brackets and such
     use 'romgrk/barbar.nvim' -- tablike feature
     use 'andweeb/presence.nvim' -- discord neovim rich presence
+    use 'preservim/nerdcommenter' -- auto comment lines
 
     -- -> LSP PLUGINS
     use 'neovim/nvim-lspconfig' -- LSP Config
