@@ -24,7 +24,7 @@ if [[ $TERM != linux && ! $PROMPT_COMMAND =~ _update_ps1 ]]; then
 fi
 
 # aliases
-alias vi='nvim'
+alias v='nvim'
 alias please='sudo'
 alias lwc='ls -a | wc -l' # count all files in current directory
 alias ll='ls -l'
