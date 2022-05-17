@@ -8,9 +8,6 @@
 alias ls='ls --color=auto'
 #PS1='[\u@\h \W]\$ '
 
-# Start fet.sh
-fet.sh
-
 # Default Editor
 export EDITOR='/usr/bin/nvim'
 
