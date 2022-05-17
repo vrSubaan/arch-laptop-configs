@@ -8,6 +8,7 @@ return require'packer'.startup(function()
     use 'romgrk/barbar.nvim' -- tablike feature
     use 'andweeb/presence.nvim' -- discord neovim rich presence
     use 'preservim/nerdcommenter' -- auto comment lines
+    use 'akinsho/toggleterm.nvim' -- terminal inside neovim
 
     -- -> LSP PLUGINS
     use 'neovim/nvim-lspconfig' -- LSP Config
