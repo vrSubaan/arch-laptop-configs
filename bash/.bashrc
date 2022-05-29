@@ -8,6 +8,8 @@
 alias ls='ls --color=auto'
 #PS1='[\u@\h \W]\$ '
 
+echo "Hello there, $USER"
+
 # Default Editor
 export EDITOR='/usr/bin/nvim'
 
