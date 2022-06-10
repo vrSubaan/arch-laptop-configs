@@ -21,4 +21,8 @@ return require'packer'.startup(function()
     -- -> TREESITTER PLUGINS
     use { 'nvim-treesitter/nvim-treesitter', run = ':TSUpdate' }
     use 'nvim-treesitter/nvim-treesitter-refactor'
+
+    -- -> TELESCOPE PLUGINS
+    use 'nvim-lua/plenary.nvim' -- dependency needed for telescope.nvim
+    use 'nvim-telescope/telescope.nvim'
 end)

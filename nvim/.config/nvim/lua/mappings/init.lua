@@ -75,3 +75,9 @@ map('n', '<A-q>', ':BufferCloseAllButCurrent<CR>', opts)
 map('n', '<Space>bb', ':BufferOrderByBufferNumber<CR>', opts)
 map('n', '<Space>bd', ':BufferOrderByDirectory<CR>', opts)
 map('n', '<Space>bl', ':BufferOrderByLanguage<CR>', opts)
+
+-- Telescsope mappings
+map('n', '<Space>ff', ':Telescope find_files<CR>', opts)
+map('n', '<Space>fg', ':Telescope live_grep<CR>', opts)
+map('n', '<Space>fb', ':Telescope buffers<CR>', opts)
+map('n', '<Space>fh', ':Telescope help_tags<CR>', opts)
