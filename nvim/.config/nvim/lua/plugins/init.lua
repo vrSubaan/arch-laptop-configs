@@ -19,6 +19,6 @@ return require'packer'.startup(function()
     use 'onsails/lspkind-nvim' -- pictograms/icons for lsp
 
     -- -> TREESITTER PLUGINS
-
-
+    use { 'nvim-treesitter/nvim-treesitter', run = ':TSUpdate' }
+    use 'nvim-treesitter/nvim-treesitter-refactor'
 end)
