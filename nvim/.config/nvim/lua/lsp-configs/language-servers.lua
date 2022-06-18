@@ -49,6 +49,10 @@ for _, lsp in pairs(servers) do
     flags = {
       -- This will be the default in neovim 0.7+
       debounce_text_changes = 150,
+    },
+    init_options = {
+        ["language_server_phpstan.enabled"] = false,
+        ["language_server_psalm.enabled"] = false,
     }
   }
 end
