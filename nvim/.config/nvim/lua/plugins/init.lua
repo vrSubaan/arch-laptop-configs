@@ -24,5 +24,5 @@ return require'packer'.startup(function()
 
     -- -> TELESCOPE PLUGINS
     use 'nvim-lua/plenary.nvim' -- dependency needed for telescope.nvim
-    use 'nvim-telescope/telescope.nvim'
+    use 'nvim-telescope/telescope.nvim' -- telescope
 end)
